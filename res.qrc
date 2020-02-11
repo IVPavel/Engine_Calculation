@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>img/delete.bmp</file>
+        <file>img/load.bmp</file>
+        <file>img/save.bmp</file>
+    </qresource>
+</RCC>
